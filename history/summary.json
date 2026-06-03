@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.diloapp.net.ico",
     "slug": "app-dilo",
     "status": "down",
-    "uptime": "53.84%",
-    "uptimeDay": "53.84%",
-    "uptimeWeek": "53.84%",
-    "uptimeMonth": "53.84%",
-    "uptimeYear": "53.84%",
+    "uptime": "47.81%",
+    "uptimeDay": "47.81%",
+    "uptimeWeek": "47.81%",
+    "uptimeMonth": "47.81%",
+    "uptimeYear": "47.81%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -43,16 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/diloapp.net.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "59.77%",
+    "uptimeDay": "59.77%",
+    "uptimeWeek": "59.77%",
+    "uptimeMonth": "59.77%",
+    "uptimeYear": "59.77%",
     "time": 224,
     "timeDay": 224,
     "timeWeek": 224,
     "timeMonth": 224,
     "timeYear": 224,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-03": 0
+    }
   }
 ]
