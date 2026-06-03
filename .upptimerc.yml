@@ -3,9 +3,7 @@ repo: dilo-status
 i18n:
   header: Estado de Dilo
 sites:
-  - name: Dilo App
-    url: https://diloapp.net
-  - name: Dilo Web
+  - name: Dilo
     url: https://diloapp.net
 status-website:
   cname: status.diloapp.net
