@@ -3,12 +3,10 @@ repo: dilo-status
 i18n:
   header: Estado de Dilo
 sites:
-  - name: App Dilo
-    url: https://app.diloapp.net
-  - name: Web Dilo
+  - name: Dilo App
     url: https://diloapp.net
-  - name: API
-    url: https://diloapp.net/api/supabase
+  - name: Dilo Web
+    url: https://diloapp.net
 status-website:
   cname: status.diloapp.net
   name: Estado de Dilo
