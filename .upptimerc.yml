@@ -5,6 +5,10 @@ i18n:
 sites:
   - name: Dilo
     url: https://diloapp.net
+  - name: API
+    url: https://diloapp.net/api/supabase
+    expectedStatusCodes:
+      - 405
 status-website:
   cname: status.diloapp.net
   name: Estado de Dilo
